@@ -3,7 +3,7 @@
 | Command     | Aliases  | Usage                                   | Description                                             | Cooldown        | Access   |
 |-------------|----------|-----------------------------------------|---------------------------------------------------------|-----------------|----------|
 | ping        |          |        ping                             | Returns various information about the bot's status.     |      3s           |   ✅      |
-| commands    |cmds, help|       commands                          |                                         3s                |                 |      ✅    |
+| commands    |cmds, help|       commands                          |                                                         |       3s          |      ✅    |
 | prefix      |          | prefix <new_prefix>                      |        Changes the bot's prefix.                                                 |     10s            |     ⛔     |
 | user           |     u     |             user <username>            | Get information about a specific Twitch user, if none specified it will default to yourself.|   3s              |    ✅      |
 | username          |         |         username <user_id>             |          Gets the username of a given id                          |         3s        |     ✅     |
