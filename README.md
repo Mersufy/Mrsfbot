@@ -27,7 +27,6 @@
 | math          |  calc        |        %math <expression>                          |              Performs a math calculation.                   |          3s       |       ✅   |
 | coin          |          |                  coin                       |                 Flips a coin.                                |        3s         |    ✅      |
 | dice          |          |              dice                       |            Rolls a 6 sided die              |     3s            |    ✅      |
-| follows          |          |           follows <channel>             |                Displays the followers of the specified channel.                   |     3s            |   ✅       |
 |  afk     |          |          afk <message>                          |                    Sets AFK status with a message.                     |        3s         |    ✅      |
 |  rafk     |          |         rafk                        |                Resumes AFK status within 5 minutes of returning.         |        3s         |      ✅    |
 |  lastseen |          |      lastseen <username>                        |                Shows the last message of a specified user.                         |         3s        |     ✅     |
