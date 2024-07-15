@@ -3,12 +3,12 @@
 | Command     | Aliases  | Usage                                   | Description                                             | Cooldown        | Access   |
 |-------------|----------|-----------------------------------------|---------------------------------------------------------|-----------------|----------|
 | ping        |          |        ping                             | Returns various information about the bot's status.     |      3s           |   ✅      |
-| commands    |cmds, help|       commands                          |                                                         |       3s          |      ✅    |
+| commands    |cmds, help|       commands                          |            Lists all available commands.           |       3s          |      ✅    |
 | prefix      |          | prefix <new_prefix>                      |        Changes the bot's prefix.                                                 |     10s            |     ⛔     |
 | user           |     u     |             user <username>            | Get information about a specific Twitch user, if none specified it will default to yourself.|   3s              |    ✅      |
 | username          |         |         username <user_id>             |          Gets the username of a given id                          |         3s        |     ✅     |
 | team          |          |             team <team_name>          |                Retrieves the list of users in a specified Twitch team.         |      3s           |    ✅      |
-| subage          |     sa     |          sa <username> <channel>                               |                                                         |       3s          |    ✅     |
+| subage          |     sa     |          sa <username> <channel>                               |      Check the subage of a user and a channel pair                       |       3s          |    ✅     |
 | followage        |   fa     |        fa <username> <channel>                                |          Get the follow age of a user on Twitch.                   |       3s          |    ✅      |
 | chatters       |    ch    |          chatters <username>                   |                Displays information about chatters in the channel                    |      3s           |    ✅      |
 | badge          |   badges     |         badge <username>                |                 global vanity chat badge                            |    3s             |   ✅       |
