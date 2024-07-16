@@ -29,12 +29,12 @@
 | dice          |          |              dice                       |            Rolls a 6 sided die              |     3s            |    ✅      |
 |  afk     |          |          afk <message>                          |                    Sets AFK status with a message.                     |        3s         |    ✅      |
 |  rafk     |          |         rafk                        |                Resumes AFK status within 5 minutes of returning.         |        3s         |      ✅    |
-|  lastseen |          |      lastseen <username>                        |                Shows the last message of a specified user.                         |         3s        |     ✅     |
+|  lastseen |          |      lastseen <username>                        |                Shows the last message of a specified user.                         |         3s        |          |
 |    say      |          |           say <message>             |      Sends a message from the bot to the specified or current channel.        |        3s         |    ⛔      |
 |   spam     |     sp     |     spam <count> <message>          |             Spam the chat.                                |       7s         |     ⛔     |
 |    fill    |          |       fill <message to fill>       |       Fills message with maximum repitions of specified text.                    |        5s         |    ⛔      |
 |    pyramid      |   py       |    pyramid <text>                   |      Creates a text pyramid with the given word.               |     10s          |     ⛔     |
 |    split      |          |     split <text> <delimiter>         |          Splits text based on specified delimiter.                     |     5s            |    ⛔      |
 |   ambassador      |          |      ambassador add/remove <username>              | Allow a moderator to perform actions on behalf of the broadcaster. Permissions only available if user remains a moderator. |      10s           |   ⛔       |
-|    join    |          |       join <channel>                          |                Join a channel                     |        10s         |     ⛔     |
-|   part       |          |      part <channel>                       |              Leave a channel'                           |        10s         |     ⛔    |
+|    join    |          |       join <channel>                          |                Join a channel                     |        10s         |     ✅     |
+|   part       |          |      part <channel>                       |              Leave a channel'                           |        10s         |     ✅   |
